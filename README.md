@@ -9,8 +9,9 @@ A simple Java Swing desktop game where the user plays Rock, Paper, Scissors agai
 ## How to:
 
 ### Option 1: ./dist/Rock...sor.jar
-- java -jar ~/RockPaperScissor/dist/RockPaperScissor.jar
-
+'''bash
+java -jar ~/RockPaperScissor/dist/RockPaperScissor.jar
+'''
     Note: Make sure you have Jar Java packages installed on your system before launching the game.
 
 ### Option 2: Visual Studio (preferred)
