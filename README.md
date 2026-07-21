@@ -1,18 +1,17 @@
-## Getting Started
+# Rock Paper Scissors
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+A simple Java Swing desktop game where the user plays Rock, Paper, Scissors against the CPU.
 
-## Folder Structure
+## Technologies Used
 
-The workspace contains two folders by default, where:
+- Java Swing
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+## How to:
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+### Option 1: ./dist/Rock...sor.jar
+- java -jar ~/RockPaperScissor/dist/RockPaperScissor.jar
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+    Note: Make sure you have Jar Java packages installed on your system before launching the game.
 
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+### Option 2: Visual Studio (preferred)
+Open project in VS Code and run `App.java`. Choose Rock, Paper, or Scissors button to play with computer. CPU picks random choice and score displays live.
