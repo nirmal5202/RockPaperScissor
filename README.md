@@ -1,4 +1,4 @@
-# Rock Paper Scissors
+# Rock <?> Paper <?> Scissors
 
 A simple Java Swing desktop game where the user plays Rock, Paper, Scissors against the CPU.
 
